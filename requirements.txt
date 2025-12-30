@@ -5,3 +5,6 @@ opencv-python
 mlflow
 typing_extensions
 torch<2.6.0
+
+
+#zenml connect --url=http://127.0.0.1:8237
