@@ -1,0 +1,7 @@
+zenml
+ultralytics
+numpy<2.0
+opencv-python
+mlflow
+typing_extensions
+torch<2.6.0

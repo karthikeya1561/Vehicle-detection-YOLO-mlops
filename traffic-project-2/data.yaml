@@ -11,6 +11,6 @@ roboflow:
   url: https://universe.roboflow.com/trafficproject-sehmq/traffic-project-1e2yd/dataset/2
   version: 2
   workspace: trafficproject-sehmq
-test: D:/Intern/MLOP/Notebooks/Traffic Management/traffic-project-2/test/images
-train: D:/Intern/MLOP/Notebooks/Traffic Management/traffic-project-2/train/images
-val: D:/Intern/MLOP/Notebooks/Traffic Management/traffic-project-2/valid/images
+test: d:/Projects/vehicle-detection/Vehicle-detection-YOLO-mlops/traffic-project-2/test/images
+train: d:/Projects/vehicle-detection/Vehicle-detection-YOLO-mlops/traffic-project-2/train/images
+val: d:/Projects/vehicle-detection/Vehicle-detection-YOLO-mlops/traffic-project-2/valid/images
