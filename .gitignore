@@ -19,7 +19,7 @@ venv.bak/
 
 # Project Specific
 runs/
-output_image.jpg
+outputs/
 mlruns/
 .zen/
 
